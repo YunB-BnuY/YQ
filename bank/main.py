@@ -1,7 +1,11 @@
 
 # 项目入口
 # hello world
+<<<<<<< HEAD
 # 项思醒是女海王hhhhhhhhh
+=======
+
+>>>>>>> d5c173bcbaedb471aada6d8d4883013785836f6f
 
 from view import View
 from bank import Bank
